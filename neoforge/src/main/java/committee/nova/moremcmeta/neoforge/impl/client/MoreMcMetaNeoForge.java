@@ -97,7 +97,7 @@ public final class MoreMcMetaNeoForge extends MoreMcmeta {
         return (sprite) -> {
             try {
                 NativeImage[] mipmaps = ObfuscationReflectionHelper.getPrivateValue(SpriteContents.class,
-                        sprite.contents(), "f_243731_");
+                        sprite.contents(), "byMipLevel");
 
                 if (mipmaps != null) {
                     return mipmaps.length - 1;

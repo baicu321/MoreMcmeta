@@ -13,6 +13,9 @@ allprojects {
     version = rootProject.mod_version
 
     repositories {
+
+
+
         exclusiveContent {
             forRepository {
                 maven {
@@ -52,6 +55,7 @@ subprojects {
         minecraft "net.minecraft:minecraft:$rootProject.minecraft_version"
         modCompileOnly "curse.maven:sodium-394468:$rootProject.sodium_version"
         mappings loom.officialMojangMappings()
+
     }
 
     java {
