@@ -1,15 +1,15 @@
 modLoader = "javafml"
 loaderVersion = "[4,)"
 #issueTrackerURL = ""
-license = "Insert License Here"
+license = "LGPL 3.0"
 
 [[mods]]
 modId = "moremcmeta"
 version = "${version}"
 displayName = "More Mcmeta"
-authors = "Me!"
+authors = "cu6,soir20"
 description = '''
-This is an example description! Tell everyone what your mod is about!
+
 '''
 #logoFile = ""
 

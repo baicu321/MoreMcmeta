@@ -1,0 +1,372 @@
+[Architectury Transformer] Architectury Runtime 5.2.87
+[Architectury Transformer DEBUG] Closed File Systems for D:\MoreMcmetaNeo\common\build\devlibs\moremcmeta-common-1.0.0-dev.jar
+[Architectury Transformer DEBUG] Preparing tiny remapper prepared transformer: dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Provided 111 classpath jar(s):
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\dev.architectury\architectury-injectables\1.0.10\62db2a366d662606d1b23ad02ccc3212ed37ec3\architectury-injectables-1.0.10.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\net.fabricmc\fabric-loader\0.18.5\ead70ea5aec413c7cf5bbfb0d42b883d08b3c2b9\fabric-loader-0.18.5.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\26.0.2\c7ce3cdeda3d18909368dfe5977332dfad326c6d\annotations-26.0.2.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.9\c29635c8a7afa03d74b33c1884df8abb2b3f3dcc\asm-9.9.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.9\bf4fa6e66638851c1cd22c2caea0c3ee5d5f437\asm-analysis-9.9.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.9\db9165a3bf908ded6b08612d583a15d1d0c7bda0\asm-commons-9.9.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.9\f8de6eead6d24dd0f45bd065bbe112b2cda6ea21\asm-tree-9.9.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.9\42fdfc0508b43807c8078d6e82ecff2ce2112ae8\asm-util-9.9.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\net.fabricmc\sponge-mixin\0.17.0+mixin.0.8.7\cf31463202f72d03b0ef1e1e38e8ee71b7faaab6\sponge-mixin-0.17.0+mixin.0.8.7.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\io.github.llamalad7\mixinextras-fabric\0.5.3\8ee5af001acbc9f7970e383bdf0944d063c80f63\mixinextras-fabric-0.5.3.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\com.github.oshi\oshi-core\6.4.10\b1d8ab82d11d92fd639b56d639f8f46f739dd5fa\oshi-core-6.4.10.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.10.1\b3add478d4382b78ea20b1671390a858002feb6c\gson-2.10.1.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\com.google.guava\failureaccess\1.0.1\1dcf1de382a0bf95a3d8b0849546c88bac1292c9\failureaccess-1.0.1.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\32.1.2-jre\5e64ec7e056456bef3a4bc4c6fdaef71e8ab6318\guava-32.1.2-jre.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\com.ibm.icu\icu4j\73.2\61ad4ef7f9131fcf6d25c34b817f90d6da06c9e9\icu4j-73.2.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\com.mojang\authlib\6.0.54\de8bc95660e1b2fe8793fd427a7a10dcec5b3ea7\authlib-6.0.54.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\com.mojang\blocklist\1.0.10\5c685c5ffa94c4cd39496c7184c1d122e515ecef\blocklist-1.0.10.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\com.mojang\brigadier\1.3.10\d15b53a14cf20fdcaa98f731af5dda654452c010\brigadier-1.3.10.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\com.mojang\datafixerupper\8.0.16\67d4de6d7f95d89bcf5862995fb854ebaec02a34\datafixerupper-8.0.16.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\com.mojang\logging\1.2.7\24cb95ffb0e3433fd6e844c04e68009e504ca1c0\logging-1.2.7.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\com.mojang\patchy\2.2.10\da05971b07cbb379d002cf7eaec6a2048211fefc\patchy-2.2.10.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\com.mojang\text2speech\1.17.9\3cad216e3a7f0c19b4b394388bc9ffc446f13b14\text2speech-1.17.9.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.16.0\4e3eb3d79888d76b54e28b350915b5dc3919c9de\commons-codec-1.16.0.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.15.1\f11560da189ab563a5c8e351941415430e9304ea\commons-io-2.15.1.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\commons-logging\commons-logging\1.2\4bfc12adfe4842bf07b657f0369c4cb522955686\commons-logging-1.2.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\io.netty\netty-buffer\4.1.97.Final\f8f3d8644afa5e6e1a40a3a6aeb9d9aa970ecb4f\netty-buffer-4.1.97.Final.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\io.netty\netty-codec\4.1.97.Final\384ba4d75670befbedb45c4d3b497a93639c206d\netty-codec-4.1.97.Final.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\io.netty\netty-common\4.1.97.Final\7cceacaf11df8dc63f23d0fb58e9d4640fc88404\netty-common-4.1.97.Final.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\io.netty\netty-handler\4.1.97.Final\abb86c6906bf512bf2b797a41cd7d2e8d3cd7c36\netty-handler-4.1.97.Final.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\io.netty\netty-resolver\4.1.97.Final\cec8348108dc76c47cf87c669d514be52c922144\netty-resolver-4.1.97.Final.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-classes-epoll\4.1.97.Final\795da37ded759e862457a82d9d92c4d39ce8ecee\netty-transport-classes-epoll-4.1.97.Final.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-unix-common\4.1.97.Final\d469d84265ab70095b01b40886cabdd433b6e664\netty-transport-native-unix-common-4.1.97.Final.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport\4.1.97.Final\f37380d23c9bb079bc702910833b2fd532c9abd0\netty-transport-4.1.97.Final.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\it.unimi.dsi\fastutil\8.5.12\c24946d46824bd528054bface3231d2ecb7e95e8\fastutil-8.5.12.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna-platform\5.14.0\28934d48aed814f11e4c584da55c49fa7032b31b\jna-platform-5.14.0.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna\5.14.0\67bf3eaea4f0718cb376a181a629e5f88fa1c9dd\jna-5.14.0.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\5.0.4\4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c\jopt-simple-5.0.4.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-compress\1.26.0\659feffdd12280201c8aacb8f7be94f9a883c824\commons-compress-1.26.0.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.14.0\1ed471194b02f2c6cb734a0cd6f6f107c673afae\commons-lang3-3.14.0.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient\4.5.13\e5f6cae5ca7ecaac1ec2827a9e2d65ae2869cada\httpclient-4.5.13.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.16\51cf043c87253c9f58b539c9f7e44c8894223850\httpcore-4.4.16.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-api\2.22.1\bea6fede6328fabafd7e68363161a7ea6605abd1\log4j-api-2.22.1.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-core\2.22.1\7183a25510a02ad00cc6a95d3b3d2a7d3c5a8dc4\log4j-core-2.22.1.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-slf4j2-impl\2.22.1\d7e6693c2606cb7e7335047d7bb96dec52db5665\log4j-slf4j2-impl-2.22.1.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.jcraft\jorbis\0.0.17\8872d22b293e8f5d7d56ff92be966e6dc28ebdc6\jorbis-0.0.17.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.joml\joml\1.10.5\22566d58af70ad3d72308bab63b8339906deb649\joml-1.10.5.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-freetype\3.3.3\a0db6c84a8becc8ca05f9dbfa985edc348a824c7\lwjgl-freetype-3.3.3.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.3\efa1eb78c5ccd840e9f329717109b5e892d72f8e\lwjgl-glfw-3.3.3.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.3\b543467b7ff3c6920539a88ee602d34098628be5\lwjgl-jemalloc-3.3.3.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.3\daada81ceb5fc0c291fbfdd4433cb8d9423577f2\lwjgl-openal-3.3.3.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.3.3\2f6b0147078396a58979125a4c947664e98293a\lwjgl-opengl-3.3.3.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.3.3\25dd6161988d7e65f71d5065c99902402ee32746\lwjgl-stb-3.3.3.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.3\82d755ca94b102e9ca77283b9e2dc46d1b15fbe5\lwjgl-tinyfd-3.3.3.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.3\29589b5f87ed335a6c7e7ee6a5775f81f97ecb84\lwjgl-3.3.3.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.lz4\lz4-java\1.8.0\4b986a99445e49ea5fbf5d149c4b63f6ed6c6780\lz4-java-1.8.0.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\2.0.9\7cf2726fdcfbc8610f9a71fb3ed639871f315340\slf4j-api-2.0.9.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\minecraftMaven\net\minecraft\minecraft-merged-9a78f9be42\1.21.1-loom.mappings.1_21_1.layered+hash.40359-v2\minecraft-merged-9a78f9be42-1.21.1-loom.mappings.1_21_1.layered+hash.40359-v2.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.1.97.Final\54188f271e388e7f313aea995e82f58ce2cdb809\netty-transport-native-epoll-4.1.97.Final-linux-x86_64.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.1.97.Final\5514744c588190ffda076b35a9b8c9f24946a960\netty-transport-native-epoll-4.1.97.Final-linux-aarch_64.jar
+[Architectury Transformer DEBUG]  - D:\.gradle\caches\modules-2\files-2.1\curse.maven\sodium-394468\6382651\38af70fa4dc4b2aaac636e92fdba3bedd5a025e1\sodium-394468-6382651.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-api-b9d2d3ba\0.116.9+1.21.1\fabric-api-b9d2d3ba-0.116.9+1.21.1.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\dev\architectury\architectury-fabric-b9d2d3ba\13.0.8\architectury-fabric-b9d2d3ba-13.0.8.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-transfer-api-v1-b9d2d3ba\5.4.4+7b3d111d19\fabric-transfer-api-v1-b9d2d3ba-5.4.4+7b3d111d19.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-api-lookup-api-v1-b9d2d3ba\1.6.72+7b3d111d19\fabric-api-lookup-api-v1-b9d2d3ba-1.6.72+7b3d111d19.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-blockrenderlayer-v1-b9d2d3ba\1.1.52+0af3f5a719\fabric-blockrenderlayer-v1-b9d2d3ba-1.1.52+0af3f5a719.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-client-tags-api-v1-b9d2d3ba\1.1.15+6573ed8c19\fabric-client-tags-api-v1-b9d2d3ba-1.1.15+6573ed8c19.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-command-api-v1-b9d2d3ba\1.2.49+f71b366f19\fabric-command-api-v1-b9d2d3ba-1.2.49+f71b366f19.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-commands-v0-b9d2d3ba\0.2.66+df3654b319\fabric-commands-v0-b9d2d3ba-0.2.66+df3654b319.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-command-api-v2-b9d2d3ba\2.2.28+6ced4dd919\fabric-command-api-v2-b9d2d3ba-2.2.28+6ced4dd919.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-content-registries-v0-b9d2d3ba\8.0.19+b559734419\fabric-content-registries-v0-b9d2d3ba-8.0.19+b559734419.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-data-generation-api-v1-b9d2d3ba\20.2.35+37516cd619\fabric-data-generation-api-v1-b9d2d3ba-20.2.35+37516cd619.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-convention-tags-v1-b9d2d3ba\2.1.6+7f945d5b19\fabric-convention-tags-v1-b9d2d3ba-2.1.6+7f945d5b19.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-convention-tags-v2-b9d2d3ba\2.11.2+fa89716719\fabric-convention-tags-v2-b9d2d3ba-2.11.2+fa89716719.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-data-attachment-api-v1-b9d2d3ba\1.4.6+5b36e0f719\fabric-data-attachment-api-v1-b9d2d3ba-1.4.6+5b36e0f719.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-entity-events-v1-b9d2d3ba\1.8.0+2b27e0a419\fabric-entity-events-v1-b9d2d3ba-1.8.0+2b27e0a419.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-events-interaction-v0-b9d2d3ba\0.7.13+ba9dae0619\fabric-events-interaction-v0-b9d2d3ba-0.7.13+ba9dae0619.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-gametest-api-v1-b9d2d3ba\2.0.5+6fc22b9919\fabric-gametest-api-v1-b9d2d3ba-2.0.5+6fc22b9919.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-item-api-v1-b9d2d3ba\11.2.0+3b3cb2e819\fabric-item-api-v1-b9d2d3ba-11.2.0+3b3cb2e819.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-item-group-api-v1-b9d2d3ba\4.1.7+def88e3a19\fabric-item-group-api-v1-b9d2d3ba-4.1.7+def88e3a19.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-lifecycle-events-v1-b9d2d3ba\2.6.0+0865547519\fabric-lifecycle-events-v1-b9d2d3ba-2.6.0+0865547519.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-loot-api-v2-b9d2d3ba\3.0.15+3f89f5a519\fabric-loot-api-v2-b9d2d3ba-3.0.15+3f89f5a519.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-loot-api-v3-b9d2d3ba\1.0.3+3f89f5a519\fabric-loot-api-v3-b9d2d3ba-1.0.3+3f89f5a519.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-message-api-v1-b9d2d3ba\6.0.14+8aaf3aca19\fabric-message-api-v1-b9d2d3ba-6.0.14+8aaf3aca19.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-model-loading-api-v1-b9d2d3ba\2.1.0+b4d813fc19\fabric-model-loading-api-v1-b9d2d3ba-2.1.0+b4d813fc19.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-recipe-api-v1-b9d2d3ba\5.0.15+2475392c19\fabric-recipe-api-v1-b9d2d3ba-5.0.15+2475392c19.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-screen-handler-api-v1-b9d2d3ba\1.3.90+b559734419\fabric-screen-handler-api-v1-b9d2d3ba-1.3.90+b559734419.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-registry-sync-v0-b9d2d3ba\5.3.1+e3eddc2119\fabric-registry-sync-v0-b9d2d3ba-5.3.1+e3eddc2119.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-networking-api-v1-b9d2d3ba\4.3.0+c7469b2119\fabric-networking-api-v1-b9d2d3ba-4.3.0+c7469b2119.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-object-builder-api-v1-b9d2d3ba\15.2.1+40875a9319\fabric-object-builder-api-v1-b9d2d3ba-15.2.1+40875a9319.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-particles-v1-b9d2d3ba\4.0.2+6573ed8c19\fabric-particles-v1-b9d2d3ba-4.0.2+6573ed8c19.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-renderer-indigo-b9d2d3ba\1.7.1+c705a49c19\fabric-renderer-indigo-b9d2d3ba-1.7.1+c705a49c19.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-renderer-api-v1-b9d2d3ba\3.4.1+b4d813fc19\fabric-renderer-api-v1-b9d2d3ba-3.4.1+b4d813fc19.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-rendering-fluids-v1-b9d2d3ba\3.1.6+1daea21519\fabric-rendering-fluids-v1-b9d2d3ba-3.1.6+1daea21519.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-renderer-registries-v1-b9d2d3ba\3.2.69+df3654b319\fabric-renderer-registries-v1-b9d2d3ba-3.2.69+df3654b319.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-rendering-v0-b9d2d3ba\1.1.72+df3654b319\fabric-rendering-v0-b9d2d3ba-1.1.72+df3654b319.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-rendering-v1-b9d2d3ba\5.1.0+ab4c25a019\fabric-rendering-v1-b9d2d3ba-5.1.0+ab4c25a019.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-screen-api-v1-b9d2d3ba\2.0.25+8b68f1c719\fabric-screen-api-v1-b9d2d3ba-2.0.25+8b68f1c719.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-api-base-b9d2d3ba\0.4.42+6573ed8c19\fabric-api-base-b9d2d3ba-0.4.42+6573ed8c19.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-biome-api-v1-b9d2d3ba\13.0.31+d527f9fd19\fabric-biome-api-v1-b9d2d3ba-13.0.31+d527f9fd19.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-block-api-v1-b9d2d3ba\1.1.0+0bc3503219\fabric-block-api-v1-b9d2d3ba-1.1.0+0bc3503219.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-rendering-data-attachment-v1-b9d2d3ba\0.3.49+73761d2e19\fabric-rendering-data-attachment-v1-b9d2d3ba-0.3.49+73761d2e19.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-block-view-api-v2-b9d2d3ba\1.0.11+ebb2264e19\fabric-block-view-api-v2-b9d2d3ba-1.0.11+ebb2264e19.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-crash-report-info-v1-b9d2d3ba\0.2.29+0af3f5a719\fabric-crash-report-info-v1-b9d2d3ba-0.2.29+0af3f5a719.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-dimensions-v1-b9d2d3ba\4.0.1+65213ef819\fabric-dimensions-v1-b9d2d3ba-4.0.1+65213ef819.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-game-rule-api-v1-b9d2d3ba\1.0.53+6ced4dd919\fabric-game-rule-api-v1-b9d2d3ba-1.0.53+6ced4dd919.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-keybindings-v0-b9d2d3ba\0.2.45+df3654b319\fabric-keybindings-v0-b9d2d3ba-0.2.45+df3654b319.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-key-binding-api-v1-b9d2d3ba\1.0.47+0af3f5a719\fabric-key-binding-api-v1-b9d2d3ba-1.0.47+0af3f5a719.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-resource-conditions-api-v1-b9d2d3ba\4.3.0+8dc279b119\fabric-resource-conditions-api-v1-b9d2d3ba-4.3.0+8dc279b119.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-resource-loader-v0-b9d2d3ba\1.3.1+5b5275af19\fabric-resource-loader-v0-b9d2d3ba-1.3.1+5b5275af19.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-sound-api-v1-b9d2d3ba\1.0.23+6573ed8c19\fabric-sound-api-v1-b9d2d3ba-1.0.23+6573ed8c19.jar
+[Architectury Transformer DEBUG]  - D:\MoreMcmetaNeo\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-transitive-access-wideners-v1-b9d2d3ba\6.2.0+45b9699719\fabric-transitive-access-wideners-v1-b9d2d3ba-6.2.0+45b9699719.jar
+[Architectury Transformer] Read classpath in 1.427 s
+[Architectury Transformer DEBUG] Closed File Systems for D:\MoreMcmetaNeo\common\build\devlibs\moremcmeta-common-1.0.0-dev.jar
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\MoreMcmetaNeo\common\build\devlibs\moremcmeta-common-1.0.0-dev.jar to C:\Users\cu6\AppData\Local\Temp\961364391627944615.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@124c278f
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@15b204a1
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@77167fb7
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@1fe20588
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@6ce139a4
+[Architectury Transformer DEBUG] Transforming from D:\MoreMcmetaNeo\common\build\devlibs\moremcmeta-common-1.0.0-dev.jar to C:\Users\cu6\AppData\Local\Temp\961364391627944615.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/animationplugin/animate/AnimationComponent$Builder with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/animationplugin/animate/AnimationComponent with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/animationplugin/animate/AnimationGroupComponent with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/animationplugin/animate/AnimationState with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/animationplugin/animate/DefaultAlphaInterpolator with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/animationplugin/animate/Frame with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/animationplugin/animate/Interpolator with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/animationplugin/animate/RGBAInterpolator with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/animationplugin/animate/SmoothAlphaInterpolator with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/animationplugin/animate/WobbleFunction with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/animationplugin/metadata/AnimationComponentBuilder with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/animationplugin/metadata/AnimationGroupMetadata with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/animationplugin/metadata/AnimationMetadata with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/animationplugin/metadata/AnimationMetadataAnalyzer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/animationplugin/ModConstants with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/ClientPlugin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/ConflictingPluginsException with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/InvalidPluginException with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/metadata/AnalyzedMetadata with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/metadata/CombinedMetadataView with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/metadata/GuiScaling$NineSlice with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/metadata/GuiScaling$Stretch with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/metadata/GuiScaling$Tile with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/metadata/GuiScaling with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/metadata/InvalidMetadataException with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/metadata/InvalidRootResourceNameException with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/metadata/JsonMetadataView$Root with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/metadata/JsonMetadataView with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/metadata/MetadataAnalyzer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/metadata/MetadataParser with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/metadata/MetadataRegistry with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/metadata/MetadataView with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/metadata/NegativeKeyIndexException with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/metadata/ResourceRepository$Pack with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/metadata/ResourceRepository with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/metadata/RootResourceName with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/MoreMcmetaMetadataParserPlugin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/MoreMcmetaTexturePlugin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/PluginException with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/texture/Color with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/texture/ColorTransform$LayerBelow with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/texture/ColorTransform with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/texture/ComponentBuilder with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/texture/CurrentFrameView with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/texture/FrameGroup with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/texture/FrameIndexOutOfBoundsException with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/texture/FrameView with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/texture/IllegalFrameReferenceException with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/texture/IllegalRGBAComponentException with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/texture/MutableFrameView with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/texture/NegativeUploadPointException with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/texture/PersistentFrameView with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/texture/PixelOutOfBoundsException with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/texture/SpriteName with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/texture/TextureComponent with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/math/Area$Builder with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/math/Area$PointIterator with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/math/Area with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/math/NegativeDimensionException with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/math/Point with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/math/RectangleOverflowException with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/guiplugin/GuiMetadataAnalyzer$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/guiplugin/GuiMetadataAnalyzer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/guiplugin/ModConstants$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/guiplugin/ModConstants with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/adt/SparseIntMatrix with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/adapter/AtlasAdapter$SpriteAdapter with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/adapter/AtlasAdapter with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/adapter/NativeImageAdapter with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/adapter/PackResourcesAdapter with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/adapter/RootResourcesAdapter with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/adapter/TextureManagerAdapter with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/io/BlurClampApplier with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/io/FrameReader$FrameData with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/io/FrameReader with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/io/ImageAllocator with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/io/ImageReader with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/io/TextureData$FrameSize with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/io/TextureData with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/io/TextureDataAssembler$MutableFrameViewImpl with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/io/TextureDataAssembler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/io/TextureDataReader with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/io/TextureReader with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/mixin/AbstractTextureMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/mixin/DirectoryListerMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/mixin/GlStateManagerMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/mixin/SingleFileMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/mixin/SodiumSpriteUtilMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/mixin/SourceFilterMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/mixin/SpriteSourceListMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/mixin/TextureAtlasMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/mixin/TextureManagerAccessor with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/mixin/TextureManagerMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/mixin/VertexBufferMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/mixinaccess/ExtendedTextureManager with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/mixinaccess/LocatableSpriteAtlas with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/mixinaccess/LocatedSpriteSource with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/mixinaccess/NamedTexture with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/MoreMcmeta$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/MoreMcmeta$TextureResourceReloadListener with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/MoreMcmeta with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/resource/MetadataRegistryImpl with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/resource/ModRepositorySource with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/resource/OrderedResourceRepository$ResourceCollectionResult with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/resource/OrderedResourceRepository with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/resource/ResourceCollection with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/resource/SpriteFrameSizeFixPack with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/resource/StagedResourceReloadListener with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/resource/StreamSource with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/resource/TextureCache with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/resource/TextureLoader$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/resource/TextureLoader$2 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/resource/TextureLoader$ReadMetadataFile with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/resource/TextureLoader$TextureMetadata with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/resource/TextureLoader with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/Atlas with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/AtlasFinder with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/BaseCollection$MipmappedBase with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/BaseCollection with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/BoundTextureState with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/CleanupComponent with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/CloseableImage with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/CloseableImageFrame$BottomLayer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/CloseableImageFrame$Layer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/CloseableImageFrame$MiddleLayer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/CloseableImageFrame$TopLayer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/CloseableImageFrame with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/ColorBlender with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/CoreTextureComponent with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/CustomTickable with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/EventDrivenTexture$Builder$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/EventDrivenTexture$Builder with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/EventDrivenTexture$TextureAndFrameView with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/EventDrivenTexture$TextureState with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/EventDrivenTexture with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/FrameGroupImpl with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/Manager with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/PredefinedFrameView with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/Sprite with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/TextureManagerWrapper with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/TexturePreparer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/UploadableFrameView with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/UploadComponent with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/fabricapi/SpriteFinder$Node with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/fabricapi/SpriteFinder with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/jsonparserplugin/JsonMetadataParser with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/jsonparserplugin/ModConstants with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/propertiesparserplugin/ModConstants with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/propertiesparserplugin/PropertiesMetadataParser with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/propertiesparserplugin/PropertiesMetadataView$Value with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/propertiesparserplugin/PropertiesMetadataView$ValueType with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/propertiesparserplugin/PropertiesMetadataView with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/textureplugin/ModConstants$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/textureplugin/ModConstants with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/textureplugin/TextureMetadataAnalyzer$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/textureplugin/TextureMetadataAnalyzer with maxs=true frames=true
+[Architectury Transformer DEBUG] Checking whether /moremcmeta-common-common-refmap.json is a mixin config.
+[Architectury Transformer DEBUG] Checking whether /moremcmeta.mixins.json is a mixin config.
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\cu6\AppData\Local\Temp\961364391627944615.jar
+[Architectury Transformer] Listening at D:\MoreMcmetaNeo\common\build\devlibs\moremcmeta-common-1.0.0-dev.jar
+[Architectury Transformer DEBUG] Temporary jar [C:\Users\cu6\AppData\Local\Temp\961364391627944615.jar] contains packages: committee.nova.moremcmeta.impl.client, committee.nova.moremcmeta.impl.adt, committee.nova.moremcmeta.animationplugin.animate, committee.nova.moremcmeta.propertiesparserplugin, committee.nova.moremcmeta.animationplugin, committee.nova.moremcmeta.impl.client.resource, committee.nova.moremcmeta.jsonparserplugin, committee.nova.moremcmeta.textureplugin, committee.nova.moremcmeta.api.client.texture, committee.nova.moremcmeta.impl.client.adapter, committee.nova.moremcmeta.impl.client.mixin, committee.nova.moremcmeta.impl.client.mixinaccess, committee.nova.moremcmeta.api.client, committee.nova.moremcmeta.impl.client.texture, committee.nova.moremcmeta.guiplugin, committee.nova.moremcmeta.api.math, committee.nova.moremcmeta.animationplugin.metadata, committee.nova.moremcmeta.api.client.metadata, committee.nova.moremcmeta.impl.client.io, committee.nova.moremcmeta.impl.fabricapi
+[Architectury Transformer DEBUG] Closed File Systems for D:\MoreMcmetaNeo\common\build\devlibs\moremcmeta-common-1.0.0-dev.jar
+[Architectury Transformer DEBUG] Classpath entry [D:\MoreMcmetaNeo\fabric\build\resources\main] contains packages: 
+[Architectury Transformer DEBUG] Transforming from committee/nova/moremcmeta/impl/client/mixinaccess/LocatableSpriteAtlas.class to committee/nova/moremcmeta/impl/client/mixinaccess/LocatableSpriteAtlas.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/mixinaccess/LocatableSpriteAtlas with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed committee/nova/moremcmeta/impl/client/mixinaccess/LocatableSpriteAtlas in 2.476 ms
+[Architectury Transformer DEBUG] Transforming from committee/nova/moremcmeta/impl/client/mixinaccess/NamedTexture.class to committee/nova/moremcmeta/impl/client/mixinaccess/NamedTexture.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/mixinaccess/NamedTexture with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed committee/nova/moremcmeta/impl/client/mixinaccess/NamedTexture in 1.297 ms
+[Architectury Transformer DEBUG] Transforming from committee/nova/moremcmeta/impl/client/texture/BoundTextureState.class to committee/nova/moremcmeta/impl/client/texture/BoundTextureState.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/BoundTextureState with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed committee/nova/moremcmeta/impl/client/texture/BoundTextureState in 728.1 μs
+[Architectury Transformer DEBUG] Transforming from committee/nova/moremcmeta/impl/client/mixin/TextureManagerAccessor.class to committee/nova/moremcmeta/impl/client/mixin/TextureManagerAccessor.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/mixin/TextureManagerAccessor with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed committee/nova/moremcmeta/impl/client/mixin/TextureManagerAccessor in 496.0 μs
+[Architectury Transformer DEBUG] Transforming from committee/nova/moremcmeta/impl/client/mixinaccess/ExtendedTextureManager.class to committee/nova/moremcmeta/impl/client/mixinaccess/ExtendedTextureManager.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/mixinaccess/ExtendedTextureManager with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed committee/nova/moremcmeta/impl/client/mixinaccess/ExtendedTextureManager in 201.9 μs
+[Architectury Transformer DEBUG] Transforming from committee/nova/moremcmeta/impl/client/texture/EventDrivenTexture.class to committee/nova/moremcmeta/impl/client/texture/EventDrivenTexture.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/EventDrivenTexture with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed committee/nova/moremcmeta/impl/client/texture/EventDrivenTexture in 1.055 ms
+[Architectury Transformer DEBUG] Transforming from committee/nova/moremcmeta/impl/client/texture/CustomTickable.class to committee/nova/moremcmeta/impl/client/texture/CustomTickable.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/CustomTickable with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed committee/nova/moremcmeta/impl/client/texture/CustomTickable in 244.9 μs
+[Architectury Transformer DEBUG] Transforming from committee/nova/moremcmeta/impl/client/MoreMcmeta.class to committee/nova/moremcmeta/impl/client/MoreMcmeta.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/MoreMcmeta with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed committee/nova/moremcmeta/impl/client/MoreMcmeta in 2.780 ms
+[Architectury Transformer DEBUG] Transforming from committee/nova/moremcmeta/api/client/InvalidPluginException.class to committee/nova/moremcmeta/api/client/InvalidPluginException.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/InvalidPluginException with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed committee/nova/moremcmeta/api/client/InvalidPluginException in 327.1 μs
+[Architectury Transformer DEBUG] Transforming from committee/nova/moremcmeta/api/client/PluginException.class to committee/nova/moremcmeta/api/client/PluginException.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/PluginException with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed committee/nova/moremcmeta/api/client/PluginException in 190.3 μs
+[Architectury Transformer DEBUG] Transforming from committee/nova/moremcmeta/impl/client/texture/Manager.class to committee/nova/moremcmeta/impl/client/texture/Manager.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/Manager with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed committee/nova/moremcmeta/impl/client/texture/Manager in 173.5 μs
+[Architectury Transformer DEBUG] Transforming from committee/nova/moremcmeta/impl/client/io/TextureReader.class to committee/nova/moremcmeta/impl/client/io/TextureReader.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/io/TextureReader with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed committee/nova/moremcmeta/impl/client/io/TextureReader in 182.0 μs
+[Architectury Transformer DEBUG] Transforming from committee/nova/moremcmeta/impl/client/resource/StagedResourceReloadListener.class to committee/nova/moremcmeta/impl/client/resource/StagedResourceReloadListener.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/resource/StagedResourceReloadListener with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed committee/nova/moremcmeta/impl/client/resource/StagedResourceReloadListener in 441.1 μs
+[Architectury Transformer DEBUG] Transforming from committee/nova/moremcmeta/api/client/ConflictingPluginsException.class to committee/nova/moremcmeta/api/client/ConflictingPluginsException.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/ConflictingPluginsException with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed committee/nova/moremcmeta/api/client/ConflictingPluginsException in 236.5 μs
+[Architectury Transformer DEBUG] Transforming from committee/nova/moremcmeta/impl/client/texture/CoreTextureComponent.class to committee/nova/moremcmeta/impl/client/texture/CoreTextureComponent.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/CoreTextureComponent with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed committee/nova/moremcmeta/impl/client/texture/CoreTextureComponent in 248.4 μs
+[Architectury Transformer DEBUG] Transforming from committee/nova/moremcmeta/api/client/texture/TextureComponent.class to committee/nova/moremcmeta/api/client/texture/TextureComponent.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/texture/TextureComponent with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed committee/nova/moremcmeta/api/client/texture/TextureComponent in 232.3 μs
+[Architectury Transformer DEBUG] Transforming from committee/nova/moremcmeta/impl/client/texture/Atlas.class to committee/nova/moremcmeta/impl/client/texture/Atlas.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/texture/Atlas with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed committee/nova/moremcmeta/impl/client/texture/Atlas in 196.1 μs
+[Architectury Transformer DEBUG] Transforming from committee/nova/moremcmeta/impl/client/resource/MetadataRegistryImpl.class to committee/nova/moremcmeta/impl/client/resource/MetadataRegistryImpl.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/resource/MetadataRegistryImpl with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed committee/nova/moremcmeta/impl/client/resource/MetadataRegistryImpl in 537.0 μs
+[Architectury Transformer DEBUG] Transforming from committee/nova/moremcmeta/api/client/metadata/MetadataRegistry.class to committee/nova/moremcmeta/api/client/metadata/MetadataRegistry.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/api/client/metadata/MetadataRegistry with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed committee/nova/moremcmeta/api/client/metadata/MetadataRegistry in 224.9 μs
+[Architectury Transformer DEBUG] Transforming from committee/nova/moremcmeta/impl/client/mixinaccess/LocatedSpriteSource.class to committee/nova/moremcmeta/impl/client/mixinaccess/LocatedSpriteSource.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/mixinaccess/LocatedSpriteSource with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed committee/nova/moremcmeta/impl/client/mixinaccess/LocatedSpriteSource in 337.9 μs
+[Architectury Transformer DEBUG] Transforming from committee/nova/moremcmeta/impl/client/adapter/AtlasAdapter.class to committee/nova/moremcmeta/impl/client/adapter/AtlasAdapter.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing committee/nova/moremcmeta/impl/client/adapter/AtlasAdapter with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed committee/nova/moremcmeta/impl/client/adapter/AtlasAdapter in 1.564 ms

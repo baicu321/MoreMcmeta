@@ -16,10 +16,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "committee.nova.moremcmeta.fabric.ExampleModFabric"
+      "committee.nova.moremcmeta.fabric.MoreMcmetaFabric"
     ],
     "client": [
-      "committee.nova.moremcmeta.fabric.client.ExampleModFabricClient"
+      "committee.nova.moremcmeta.fabric.client.MoreMcmetaFabricClient"
     ]
   },
   "mixins": [
