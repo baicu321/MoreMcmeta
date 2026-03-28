@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "committee.nova.moremcmeta.neoforge.impl.client.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "AbstractTextureMixin",
+    "TextureManagerAccessor",
+    "TextureManagerMixin",
+    "SpriteSourceListMixin",
+    "DirectoryListerMixin",
+    "SingleFileMixin",
+    "SourceFilterMixin",
+    "VertexBufferMixin",
+    "TextureAtlasMixin",
+    "GlStateManagerMixin",
+    "SodiumSpriteUtilMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

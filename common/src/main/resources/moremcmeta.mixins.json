@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "package": "committee.nova.moremcmeta.impl.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "client": [
+    "AbstractTextureMixin",
+    "DirectoryListerMixin",
+    "GlStateManagerMixin",
+    "SingleFileMixin",
+    "SourceFilterMixin",
+    "SpriteSourceListMixin",
+    "TextureAtlasMixin",
+    "TextureManagerAccessor",
+    "TextureManagerMixin",
+    "VertexBufferMixin"
+  ],
+  "mixins": [
+    "SodiumSpriteUtilMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

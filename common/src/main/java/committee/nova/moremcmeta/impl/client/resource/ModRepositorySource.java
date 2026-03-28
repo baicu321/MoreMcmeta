@@ -1,0 +1,96 @@
+/*
+ * MoreMcmeta is a Minecraft mod expanding texture configuration capabilities.
+ * Copyright (C) 2023 soir20
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Lesser General Public License as published by
+ * the Free Software Foundation version 3 of the License.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ */
+
+package committee.nova.moremcmeta.impl.client.resource;
+
+import com.google.common.collect.ImmutableList;
+import net.minecraft.MethodsReturnNonnullByDefault;
+import net.minecraft.network.chat.Component;
+import net.minecraft.server.packs.PackLocationInfo;
+import net.minecraft.server.packs.PackResources;
+import net.minecraft.server.packs.PackSelectionConfig;
+import net.minecraft.server.packs.repository.Pack;
+import net.minecraft.server.packs.repository.PackCompatibility;
+import net.minecraft.server.packs.repository.PackSource;
+import net.minecraft.server.packs.repository.RepositorySource;
+import net.minecraft.world.flag.FeatureFlagSet;
+
+import java.util.Optional;
+import java.util.function.Consumer;
+
+import static java.util.Objects.requireNonNull;
+
+/**
+ * Supplies the {@link Pack} (and thus {@link PackResources}) added by this mod.
+ * @author soir20
+ */
+@MethodsReturnNonnullByDefault
+public final class ModRepositorySource implements RepositorySource {
+
+    /**
+     * The unique identifier for the mod's resource pack.
+     */
+    public static final String PACK_ID = "__moremcmeta-internal__";
+
+    /**
+     * The title of the mod's resource pack.
+     */
+    public static final String TITLE = "MoreMcmeta Internal";
+
+    /**
+     * The description for the mod's resource pack.
+     */
+    public static final String DESCRIPTION = "Used by the MoreMcmeta mod. Cannot be moved.";
+
+    private final Pack.ResourcesSupplier PACK_GETTER;
+
+    /**
+     * Creates a new resource pack repository.
+     * @param packGetter        creates the resource pack added by this mod on each reload
+     */
+    public ModRepositorySource(Pack.ResourcesSupplier packGetter) {
+        PACK_GETTER = requireNonNull(packGetter, "Pack getter cannot be null");
+    }
+
+    /**
+     * Loads the pack added by this mod.
+     * @param consumer          consumer that accepts the pack
+     */
+    @Override
+    public void loadPacks(Consumer<Pack> consumer) {
+        requireNonNull(consumer, "Pack consumer cannot be null");
+
+        Pack pack = new Pack(
+                new PackLocationInfo(
+                        PACK_ID,
+                        Component.literal(TITLE),
+                        PackSource.BUILT_IN,
+                        Optional.empty()
+                ),
+                PACK_GETTER,
+                new Pack.Metadata(Component.literal(DESCRIPTION),
+                        PackCompatibility.COMPATIBLE,
+                        FeatureFlagSet.of(),
+                        ImmutableList.of()
+                ),
+                new PackSelectionConfig(true, Pack.Position.TOP, true)
+        );
+
+        consumer.accept(pack);
+    }
+
+}

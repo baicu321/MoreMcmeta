@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "moremcmeta",
+  "version": "${version}",
+  "name": "More Mcmeta",
+  "description": "This is an example description! Tell everyone what your mod is about!",
+  "authors": [
+    "Me!"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/moremcmeta/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "committee.nova.moremcmeta.fabric.ExampleModFabric"
+    ],
+    "client": [
+      "committee.nova.moremcmeta.fabric.client.ExampleModFabricClient"
+    ]
+  },
+  "mixins": [
+    "moremcmeta.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.5",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "architectury": ">=13.0.8",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
